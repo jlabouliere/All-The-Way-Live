@@ -6,12 +6,16 @@
 
 ![image](https://user-images.githubusercontent.com/98665941/161452279-aa8fab60-4253-4244-810d-1319dacb0345.png)
 
-#### Theater Event Outcomes by Launch Date
+![image](https://user-images.githubusercontent.com/98665941/161452328-1a578f49-e78d-49a3-81aa-be37dc13c189.png)
+
+## Analysis and Challenges
+
+### Theater Event Outcomes by Launch Date
 *1,369 total Theater Events
 
 *Campaign Outcomes by Calendar month
 
-#### Plays Outcomes by Funding Goal
+### Plays Outcomes by Funding Goal
 *Goals assessed at below $1,000 and then increments of $5,000 up to $50,000 with a final grouping of $50,000 and over
 
 ## Analysis and Challenges
