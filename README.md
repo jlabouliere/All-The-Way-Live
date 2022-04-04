@@ -35,7 +35,20 @@ Average 68% success rate for Campaigns with Goals under $10,000
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/98665941/161453425-54b859d4-e3bb-49a8-9370-0b4a07d444b4.png)
 
 ### Challenges
+Nesting the COUNTIFS() syntax properly and including "" for numeric values required some additional research.  For the Plays Campaigns, properly incorporating the "</>=value" was missed and the total campaigns were not matching up to the data at first.
+
+## Results
+Based on the analysis, Theater campaigns tend to have more succes when started between May and July.  These months do have the highest rate of Campaign submissions, but the overall success rate is higher than the rest of the year.
+
+Goals based analysis shows a distinct preference for Plays Campaigns with funding goals under $10,000 in terms of successful funding and submission.  Campaigns under $10,000 average a 68% successful funding rate that increases to 74% when under $5,000.  85% of all Plays Campaigns in the data set fell under the $10,000 goal threshold.
+
+The data set analysis was somewhat limited by the requested parameters.  Defining outcomes separately for the Theater category and the Plays subcategory may not accurately represent the trends.  Expanding the parameters to have the analyses performed on both the Parent and Sub category may yield a better view and an intersection between Launch Dates and Funding Goals.  It was not necessarily clear if the intended focus was Theater in general or Plays specifically.
+
+Additional visualizations:
+
+![Percentage_of_Outcomes_by_Goal](https://user-images.githubusercontent.com/98665941/161455982-9bb78235-eccd-46b0-a6ee-cbd15e68d27f.png)
+
+![Goal_Outcomes_by_Amount](https://user-images.githubusercontent.com/98665941/161455990-d136350a-68bc-41de-806b-4ccfb9adfacf.png)
 
 
-## Analysis and Challenges
 
